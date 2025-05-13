@@ -4,7 +4,7 @@
 <!---Shields/Badges https://shields.io/--->
 
 # ESP32 Marauder
-<p align="center"><img alt="Marauder logo" src="https://github.com/Neo2a/ESP32Marauder/upload/master/schematics/multi1.jpg?raw=true" width="300"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/Neo2a/ESP32Marauder/blob/master/schematics/multi1.jpg?raw=true" width="300"></p>
 <p align="center">
   <b>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</b>
   <br><br>
